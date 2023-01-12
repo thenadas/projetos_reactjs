@@ -5,9 +5,9 @@
 - Projeto Tarefas (Digitar e adicionar alguma tarefa);
 
 Utilizar react-router-dom, para trabalhar com rotas na aplicação. 
-Criar e configurar pagina não encontrada(404).
+Criar e configurar pagina não encontrada(404). 
 
-## Parar iniciar o projeto.
+## Parar iniciar o projeto. :star2:
 ### `npm start`
 
 Runs the app in the development mode.\
