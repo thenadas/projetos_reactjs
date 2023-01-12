@@ -1,0 +1,32 @@
+.container{
+    height: 100vh;
+}
+
+.titulo-biscoito{
+    margin-bottom: 50px;
+}
+
+
+.imgBiscoito{
+    width: 440px;
+    margin-bottom: 40px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: var(--main-button-color);
+    color: var(--main-bg-color);
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+p{
+    margin-top: 40px;
+    font-size: 30px;
+    color: var(--main-text-color);
+    font-weight: bold;
+}

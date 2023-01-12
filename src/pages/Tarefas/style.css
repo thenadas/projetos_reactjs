@@ -1,0 +1,10 @@
+input {
+    margin: 30px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+}
+
+.btn-tarefa {
+    width: 200px;
+}
