@@ -1,4 +1,4 @@
-# Projetos utilizando ReactJS
+# Projetos utilizando ReactJS :rocket:
 
 - Projeto Biscoito da Sorte (exibe frases aleatórias ao clicar no botão);
 - Projeto Contador (aumenta e diminui o contador);
